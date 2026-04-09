@@ -1,11 +1,13 @@
 ## 👋 Hi, I’m Arthur
 
 iOS developer focused on native apps using Swift and SwiftUI.  
-Interested in practical mobile development and currently looking for an internship.
+Currently looking for an internship.
+
+**Achievements**  
+- Telegram iOS Contest 2025 – Prize Winner (Bonus Place) 
 
 **Training**  
-[Yandex Mobile Development Summer School 2025](https://certify.s3.yandex.net/young-yandex/20e94181-2b81-4727-97ca-669faeef2eb3/e986e087-3229-418c-9742-420dc020930a.PDF)
-Telegram iOS Contest 2025 — Prize Winner
+- [Yandex Mobile Development Summer School 2025](https://certify.s3.yandex.net/young-yandex/20e94181-2b81-4727-97ca-669faeef2eb3/e986e087-3229-418c-9742-420dc020930a.PDF) 
 
 **Skills**  
 Swift · SwiftUI · UIKit · Xcode · Git · Python · Command Line
