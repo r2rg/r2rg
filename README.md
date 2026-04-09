@@ -5,9 +5,10 @@ Interested in practical mobile development and currently looking for an internsh
 
 **Training**  
 [Yandex Mobile Development Summer School 2025](https://certify.s3.yandex.net/young-yandex/20e94181-2b81-4727-97ca-669faeef2eb3/e986e087-3229-418c-9742-420dc020930a.PDF)
+Telegram iOS Contest 2025 — Prize Winner
 
 **Skills**  
-Swift · SwiftUI · Xcode · Git · Python · Command Line
+Swift · SwiftUI · UIKit · Xcode · Git · Python · Command Line
 
 **Languages**  
 English · Russian
